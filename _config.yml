@@ -1,0 +1,28 @@
+name: KenDraft
+favicon: null
+layout_spectrum: 0.7245291464496404
+typography_spectrum: 0.3864949510898441
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5313771541696042
+  lightness: 0.8696038643829525
+  saturation: 0.3195151190739125
+  rhythmicContrast: 0.5351164017338306
+purpose: []
